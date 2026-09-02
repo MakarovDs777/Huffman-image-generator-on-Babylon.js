@@ -6,4 +6,4 @@
 
 Сделаем много картинок а не одну.
 
-[Huffman image generator on Babylon.js (Version 1 - More images) | Babylon.js Playground](https://playground.babylonjs.com/#JIXE61)
+[Huffman image generator on Babylon.js (Version 1 - More images) | Babylon.js Playground](https://playground.babylonjs.com/#JIXE61#1)
