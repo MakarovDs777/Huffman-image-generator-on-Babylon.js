@@ -7,3 +7,7 @@
 Сделаем много картинок а не одну.
 
 [Huffman image generator on Babylon.js (Version 1 - More images) | Babylon.js Playground](https://playground.babylonjs.com/#JIXE61#1)
+
+Хаффман + RLE в одной картинке.
+
+[Huffman image generator on Babylon.js (Version 2 - Huffman + RLE One image) | Babylon.js Playground](https://playground.babylonjs.com/#9ZOZD1)
